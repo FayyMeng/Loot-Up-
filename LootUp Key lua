@@ -166,7 +166,7 @@ local function createHorizontalKeyGUI()
     local Welcome = Instance.new("TextLabel")
     Welcome.Size = UDim2.new(1, 0, 0, isMobile and 25 or 30)
     Welcome.BackgroundTransparency = 1
-    Welcome.Text = "Welcome Back,"
+    Welcome.Text = "Get Key First,"
     Welcome.TextColor3 = Color3.fromRGB(80, 90, 110)
     Welcome.Font = Enum.Font.Gotham
     Welcome.TextSize = isMobile and 14 or 16
@@ -176,7 +176,7 @@ local function createHorizontalKeyGUI()
     UserName.Size = UDim2.new(1, 0, 0, isMobile and 30 or 35)
     UserName.Position = UDim2.new(0, 0, 0, isMobile and 20 or 25)
     UserName.BackgroundTransparency = 1
-    UserName.Text = "Premium User"
+    UserName.Text = "LOOT UP"
     UserName.TextColor3 = Color3.fromRGB(30, 40, 60)
     UserName.Font = Enum.Font.GothamBold
     UserName.TextSize = isMobile and 20 or 24
