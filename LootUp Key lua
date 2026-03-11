@@ -1,6 +1,6 @@
 local function createHorizontalKeyGUI()
     local ENCODED_KEY = {
-       310,391,463,463,328,433,433,448
+       355,436,400,391,448,403,328,433,433,448,355,436
     }
     
     local function getValidKey()
@@ -13,7 +13,7 @@ local function createHorizontalKeyGUI()
     end
 
     local CONFIG = {
-        CopyLink = "https://link-hub.net/3394206/FZzLgRbdHmZZ",
+        CopyLink = "https://loot-link.com/s?xq3b8VoS",
         MainScriptUrl = "https://raw.githubusercontent.com/FayyMeng/FayyScript/refs/heads/main/FayyScript.lua",
     }
     
