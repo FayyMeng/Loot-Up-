@@ -14,7 +14,7 @@ local function createDualKeySystemGUI()
 
     local CONFIG = {
         LinkvertiseURL = "https://link-hub.net/3394206/FZzLgRbdHmZZ",
-        LootLabsURL = "https://loot-link.com/s?2uvqC14q&data=7hDViHN3IUApLO81kcTWQnCxPyLm4ZNBR4NGTf3GgKmsEK%2Be63OgRtaRcY1iEt0J",
+        LootLabsURL = "https://lootdest.org/s?f92JzoL5&data=yFZi/rLXdaKo2F5uwqz8hQ2WAuTmBg96HwX97XS9DB8%3D",
         MainScriptUrl = "https://raw.githubusercontent.com/FayyMeng/FayyScript/refs/heads/main/FayyScript.lua",
         DiscordURL = "https://discord.gg/Dz2BafGg7",
     }
