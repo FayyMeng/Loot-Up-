@@ -1,6 +1,6 @@
 local function createDualKeySystemGUI()
     local ENCODED_KEY = {
-       355,436,400,391,448,403,328,433,433,448,355,436
+       328,433,433,448,355,436,250,244,250,262
     }
     
     local function getValidKey()
